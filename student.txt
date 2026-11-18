@@ -1,0 +1,4 @@
+Name = swastik dhal
+Roll no = 2501060044
+course = B.C.A (AI&DS) 
+SECTION = B
